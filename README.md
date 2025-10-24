@@ -9,7 +9,7 @@ This repository contains a python script that searches for a motif in a FASTA fi
 ## Example
 `python3 ~/Finding_DNA_Motifs/Finding_DNA_Motifs.py sequences.fasta`
 
-"Enter the motif you want to find:" `{motif (ex.: 'ATCGCG'}`
+"Enter the motif you want to find:" `{motif} (ex.: 'ATCGCG')`
 ## Path to the Script
 Example: `~/Finding_DNA_Motifs/Finding_DNA_Motifs.py` or, if you are already in the working directory, just `Finding_DNA_Motifs.py`.
 ## Motif 
