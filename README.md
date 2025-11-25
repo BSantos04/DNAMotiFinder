@@ -1,6 +1,6 @@
 # Finding_DNA_Motifs
 This repository contains a python script that searches for a motif in a FASTA file containing nucleotide biological sequences, displaying all the locations of that specific motif in the sequences.
-# Requisities
+# Requirements
 - Python >= v3.6
 # Installation
 `git clone https://github.com/BSantos04/Finding_DNA_Motifs.git` 
