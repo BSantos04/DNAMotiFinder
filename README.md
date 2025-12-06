@@ -1,4 +1,4 @@
-# MotiFinder
+# DNAMotiFinder
 This repository contains a python script that searches for a motif in a FASTA file containing nucleotide biological sequences, displaying all the locations of that specific motif in the sequences.
 # Requirements
 - Python >= v3.6
